@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class PaymentBean implements Serializable {
 
-	private static final long serialVersionUID = -5753210085171628735L;
+	private static final long serialVersionUID = -57532100851148528735L;
 
 	private int paymentId;
 
